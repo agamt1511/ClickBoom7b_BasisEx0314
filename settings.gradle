@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ClickBoom7b_BasisEx0313"
